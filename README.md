@@ -39,6 +39,8 @@ Interface: Streamlit. Para prototipagem rápida de uma interface web amigável.
 Base de Conhecimento: Arquivos PDF/Markdown contendo manuais da linha GoodWe EV e protocolos OCPP.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fluxograma de funcionamento:
+![Fluxograma de Funcionamento](/docs/sprintchatbot.drawio.png)
+
 Entrada (Input): O usuário (Gestor ou Operador) interage com o sistema enviando uma dúvida técnica, uma solicitação de dados de consumo ou relatando um código de erro do carregador.
 
 Triagem e Orquestração (LangChain): O orquestrador analisa a intenção da pergunta. Se a dúvida exigir conhecimento específico (manual ou status real), o sistema ativa os mecanismos de busca. Caso contrário, segue para resposta direta.
