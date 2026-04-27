@@ -1,7 +1,15 @@
 # Sprint_prompt_and_artificial_intelligence
 
 GoodWe SmartCharge Intelligence - EV Challenge 2026.
-Membros: Fernando Henrique Lembo - RM: 570228 Guilherme Lopes Muniz - RM: 569521 Gustavo Russo Balizardo - RM: 569283 Ryan Barreto Carlos Dias - RM: 574126
+Membros:
+
+Fernando Henrique Lembo 
+
+Guilherme Lopes Muniz - RM: 569521
+
+Gustavo Russo Balizardo - RM: 569283
+
+Ryan Barreto Carlos Dias - RM: 574126
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Problema:
 A GoodWe busca expandir sua atuação no mercado de mobilidade elétrica, migrando de soluções puramente residenciais para o setor Comercial. O desafio central é a falta de um ecossistema integrado que consiga:
